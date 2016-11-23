@@ -1,0 +1,31 @@
+Object orientation tracking app:
+
+A utility app that will help people tracking the orientation of any object.
+
+(30 points) Basic Activities and layouts in Android app.
+
+(30 points) Basic bluetooth functions (be able to connect to arduino via bluetooth).
+
+(30 points) Arduino Library for calculating object orientation.
+
+(30 points) Display orientation data, which received from arduino in real-time.
+
+(30 points) Display 3D model with in real-time on Android Device screen.
+
+
+
+
+Technical Criteria: 
+1. Android Features: bluetooth, 3D graphics
+2. Arduino Features: bluetooth, 9 DoF sensors
+
+
+Design Critial: 
+1. Create a new Arduino Library
+
+
+
+week1: setup bluetooth communication with arduino (part 1)
+week2: write algorithm to calculate object orientation in arduino library (part 2)
+
+week3: combine part 1 and 2, finish with displaying 3D model to indicate the object orientation.
